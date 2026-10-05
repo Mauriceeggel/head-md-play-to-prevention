@@ -1,9 +1,9 @@
-# Process
+# 𖡼 Process 𖡼
 We will document our process in this folder.<br>
 We draw inspiration from [Pippin Barr's](https://github.com/pippinbarr) creative process ([itisasifyouweredoingwork](https://github.com/pippinbarr/itisasifyouweredoingwork)).
 
 
-## 26.10.05 - Cyberpunk (w/ Sabrina Calvo)
+## 𖨠 26.10.05 - Cyberpunk (w/ Sabrina Calvo) 𖨠
 
 <br>
 
@@ -25,6 +25,7 @@ What if we can make things better ? What after the shock ? <br>
 Things **can** look better once we went trough the trauma. 
 
 ![notes01](img/notes01.jpeg)
+![notes02](img/notes02.jpeg)
 
 REF:
 
@@ -33,5 +34,6 @@ REF:
 - [William Gibson / Neuromancien](https://fr.wikipedia.org/wiki/Neuromancien)
 - [Burning Chrome](https://fr.wikipedia.org/wiki/Grav%C3%A9_sur_chrome_(nouvelle))
 - [Philip K. Dick](https://fr.wikipedia.org/wiki/Philip_K._Dick)
-[Naked Lunch](https://en.wikipedia.org/wiki/Naked_Lunch)
+- [Naked Lunch](https://en.wikipedia.org/wiki/Naked_Lunch)
 - [Do Androids Dream of Electric Sheep?)](https://fr.wikipedia.org/wiki/Les_andro%C3%AFdes_r%C3%AAvent-ils_de_moutons_%C3%A9lectriques_%3F)
+- [Critical Web Design](https://owenmundy.com/site/critical-web-design)
