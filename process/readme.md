@@ -2,12 +2,29 @@
 We will document our process in this folder.<br>
 We draw inspiration from [Pippin Barr's](https://github.com/pippinbarr) creative process ([itisasifyouweredoingwork](https://github.com/pippinbarr/itisasifyouweredoingwork)).
 
-
-## 𖨠 26.10.05 - Cyberpunk (w/ Sabrina Calvo) 𖨠
+# 𖨠 26.10.06 - Cyberpunk - Worldbuilding 𖨠 <br> (w/ Sabrina Calvo) 
 
 <br>
 
-![head-photo](img/note_cover_01.jpeg)
+![notes-cover-02](img/notes_cover_02.jpeg)
+
+WIP
+
+## Handwritten notes
+
+
+
+## REF:
+
+- 
+
+<br>
+
+# 𖨠 26.10.05 - Cyberpunk - Worldbuilding 𖨠 <br> (w/ Sabrina Calvo) 
+
+<br>
+
+![notes-cover-01](img/note_cover_01.jpeg)
 
 
 **Cyberpunk is not about aesthetic !** <br>
@@ -22,12 +39,14 @@ Cyberpunk became an aesthetic trend. The political aspect has disappeared or bee
 
 **Post Cyberpounk:** <br>
 What if we can make things better ? What after the shock ? <br>
-Things **can** look better once we went trough the trauma. 
+<u>Things **can** look better once we went trough the trauma.</u>
+
+## Handwritten notes
 
 ![notes01](img/notes01.jpeg)
 ![notes02](img/notes02.jpeg)
 
-REF:
+## REF:
 
 - [The Cybernetic Hypothesis](https://theanarchistlibrary.org/library/tiqqun-the-cybernetic-hypothesis)
 - [Bruce Bethke / Cyberpunk](https://en.wikipedia.org/wiki/Cyberpunk_(short_story))
