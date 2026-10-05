@@ -1,4 +1,4 @@
-# 𖡼 Process 𖡼
+# 𖡼 PROCESS 𖡼
 We will document our process in this folder.<br>
 We draw inspiration from [Pippin Barr's](https://github.com/pippinbarr) creative process ([itisasifyouweredoingwork](https://github.com/pippinbarr/itisasifyouweredoingwork)).
 
@@ -7,7 +7,7 @@ We draw inspiration from [Pippin Barr's](https://github.com/pippinbarr) creative
 
 <br>
 
-![head-photo](img/process-head-01%20-%20Grande.jpeg)
+![head-photo](img/note_cover_01.jpeg)
 
 
 **Cyberpunk is not about aesthetic !** <br>
