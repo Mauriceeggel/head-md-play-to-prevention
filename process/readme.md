@@ -1,6 +1,11 @@
 # 𖡼 PROCESS 𖡼
+𖠪 Maurice Eggel's process 𖠪<br>
+
 We will document our process in this folder.<br>
 We draw inspiration from [Pippin Barr's](https://github.com/pippinbarr) creative process ([itisasifyouweredoingwork](https://github.com/pippinbarr/itisasifyouweredoingwork)).
+
+This folder contains various notes, references, sketches, images, ideas, etc. <br>
+Each entry is dated and arranged in reverse chronological order.
 
 # 𖨠 26.10.06 - Cyberpunk - Worldbuilding 𖨠 <br> (w/ Sabrina Calvo) 
 
@@ -20,7 +25,7 @@ WIP
 
 <br>
 
-# 𖨠 26.10.05 - Cyberpunk - Worldbuilding 𖨠 <br> (w/ Sabrina Calvo) 
+# 𖨠 26.10.05 - Cyberpunk - Worldbuilding 𖨠 <br> (w/ Sabrina Calvo & Douglas Edric Stanley) 
 
 <br>
 
