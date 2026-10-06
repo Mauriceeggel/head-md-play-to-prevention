@@ -7,23 +7,30 @@ We draw inspiration from [Pippin Barr's](https://github.com/pippinbarr) creative
 This folder contains various notes, references, sketches, images, ideas, etc. <br>
 Each entry is dated and arranged in reverse chronological order.
 
-# 𖨠 26.10.06 - Cyberpunk - Worldbuilding 𖨠 <br> (w/ Sabrina Calvo) 
+# 𖨠 26.10.06 - Virtual World - Worldbuilding 𖨠 <br> (w/ Sabrina Calvo & Douglas Edric Stanley) 
 
 <br>
 
 ![notes-cover-02](img/notes_cover_02.jpeg)
 
-WIP
+The virtual world that we want to build to target a specific market. <br>
+- How do we bring teenager to our project ? 
+- Are there any narrative dissonances ?
+- Can the game system give rise to a form of "emergent harassment" ?
+
+
 
 ## Handwritten notes
 
-
+![notes01](img/notes03.jpeg)
 
 ## REF:
 
+- [Toon Town - Emotions system](https://toontown.fandom.com/wiki/Emotions) 
 - 
 
 <br>
+<hr>
 
 # 𖨠 26.10.05 - Cyberpunk - Worldbuilding 𖨠 <br> (w/ Sabrina Calvo & Douglas Edric Stanley) 
 
