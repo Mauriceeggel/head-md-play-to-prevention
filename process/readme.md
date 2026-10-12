@@ -55,7 +55,7 @@ WHO / WHAT / WHERE / WHEN / WHY / HOW ???
 A character must have a clear intention.<br>
 Obstacles, desires, needs, etc., make it possible to understand a character's intention.<br>
 
-The character's behavior provides the information needed to understand them without the need for explanation. → show, don't tell !!! ( exemple: [Crankin's time travel adventure](https://play.date/games/crankin/) )
+The character's behavior provides the information needed to understand them without the need for explanation. → show, don't tell !!! ( exemple: [Crankin's time travel adventure](https://play.date/games/crankin/) ) 
 
 <u>→ All you have is a hammer - all looks like a nail !</u>
 
@@ -75,7 +75,16 @@ STASIS vs CHANGE
 
 **restorative nostalgia vs reflective nostalgia**
 
+## Exercice 2
 
+![ID-chart](img/ID-chart.jpeg)
+![ID-chart](img/ID-chart02.jpeg)
+![ID-chart](img/ID-chart03.jpeg)
+
+## Handwritten notes
+
+![notes01](img/notes04.jpeg)
+![notes02](img/notes05.jpeg)
 
 ## REF:
 
