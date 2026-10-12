@@ -46,6 +46,35 @@ WHO / WHAT / WHERE / WHEN / WHY / HOW ???
 <br>
 → The reader contract → Provide as little as possible so that the reader builds the world with their imagination.
 
+![props](img/Props.jpeg)
+
+[exercice 1: Design a prop with: minimal departure / outlier / Novum /Synecdoche]
+
+## <u>Persona - Character</u>
+
+A character must have a clear intention.<br>
+Obstacles, desires, needs, etc., make it possible to understand a character's intention.<br>
+
+The character's behavior provides the information needed to understand them without the need for explanation. → show, don't tell !!! ( exemple: [Crankin's time travel adventure](https://play.date/games/crankin/) )
+
+<u>→ All you have is a hammer - all looks like a nail !</u>
+
+Watch out for tropes/clichés!!!
+<br>**[→ Tropes vs women in video games](https://www.youtube.com/playlist?list=PLn4ob_5_ttEaA_vc8F3fjzE62esf9yP61)**
+
+**In our context, the concept of internal conflict is central to harassment.**
+
+[Achilles' heel — the very reason for its power is the source of its weakness.]<br>
+<u> → Oxymore / A good character is contradictory. </u>
+→ [excellent example](https://www.youtube.com/watch?v=1R42mFx3_ss)
+
+STASIS vs CHANGE
+
+![know thyself](img/know%20thyself.jpg)
+<i>know thyself</i>
+
+**restorative nostalgia vs reflective nostalgia**
+
 
 
 ## REF:
@@ -55,7 +84,7 @@ WHO / WHAT / WHERE / WHEN / WHY / HOW ???
 - [Possible worlds theory](https://en.wikipedia.org/wiki/Possible_world)
 - [Possible Worlds, Artificial Intelligence, and Narrative Theory](https://luisnavarrete.com/USC/pdf/Marie_Laure_Ryan.pdf)
 - [Six Walks in the Fictional Woods](https://en.wikipedia.org/wiki/Six_Walks_in_the_Fictional_Woods)
--
+- 
 
 
 <br>
