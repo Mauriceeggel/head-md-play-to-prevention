@@ -9,7 +9,7 @@ Each entry is dated and arranged in reverse chronological order.
 
 <hr>
 
-# 𖨠 26.10.19 - Story Telling 𖨠 <br> (w/ Douglas Edric Stanley) 
+# 𖨠 26.10.19 - Project Definition 𖨠 <br> (w/ Douglas Edric Stanley) 
 
 <br>
 
@@ -24,7 +24,7 @@ What is:
 
 → We will create one web page per project — all of which will be gathered in a shared library.
 
-## Game ideas 01
+## Game ideas - Web Jumping
 
 List of words :
 
@@ -32,6 +32,7 @@ List of words :
 - Relation / connection 
 - Investigation
 - link
+- Web
 
 → Most of the words above carry a different meaning depending on the context in which they are used (digital / IRL).
 
@@ -43,6 +44,8 @@ List of words :
 → You must uncover the various connections between the individuals.
 
 → Navigation takes place through a "network". Each node represents a person and/or their data (messages, photos, contacts, social media, etc.).
+
+You play a kind of program that moves around the "web," jumping from one profile to another.
 
 <hr>
 
@@ -64,6 +67,8 @@ List of words :
 <i>Touchdesigner Patch / personal archive</i>
 
 ![mona](img/idea-01/1520165197157.jpg) <br>
+
+## Game ideas [Raimundo]
 
 
 
