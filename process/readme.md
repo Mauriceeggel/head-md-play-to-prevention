@@ -67,7 +67,7 @@ You play a kind of program that moves around the "web," jumping from one profile
 <i>Touchdesigner Patch / personal archive</i>
 
 ![neuron](img/idea-01/1520165197157.jpg) <br>
-representation of neurons found on the web (IDK...)
+<i>representation of neurons found on the web (IDK...)</i>
 
 ## Game ideas [Raimundo]
 
