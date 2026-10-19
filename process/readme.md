@@ -38,14 +38,18 @@ List of words :
 
 ### You are presented with a "network" of individuals; your objective is to identify the interpersonal "connections" based on each person's online data.
 
+→ The game asks you to identify the different "roles" (harasser, victim, bystander, etc.)
+
+→ Navigation takes place through a "network". Each node represents a person and/or their data (messages, photos, contacts, social media, etc.).
+
 <hr>
 
-
+### Inspirations
 
 ![Plague-Inc](img/idea-01/ss_9a5c4d45543113ad9de9d9b928f6fadf1fa17d25.1920x1080.jpg) <br>
 <i>Plague Inc.</i> 
 
-Vous devais naviguer sur le web, 
+
 
 
 ## REF:
