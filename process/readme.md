@@ -15,6 +15,37 @@ Each entry is dated and arranged in reverse chronological order.
 
 ![notes-cover-03](img/notes_cover_04.jpeg)
 
+Today, we need to clarify certain points and describe some concepts.
+
+What is: 
+
+- Playable Micro-Experiences
+- Collective Library (online platform)
+
+→ We will create one web page per project — all of which will be gathered in a shared library.
+
+## Game ideas 01
+
+List of words :
+
+- Network (Réseau) → social / group of person 
+- Relation / connection 
+- Investigation
+- link
+
+→ Most of the words above carry a different meaning depending on the context in which they are used (digital / IRL).
+
+
+### You are presented with a "network" of individuals; your objective is to identify the interpersonal "connections" based on each person's online data.
+
+<hr>
+
+
+
+![Plague-Inc](img/idea-01/ss_9a5c4d45543113ad9de9d9b928f6fadf1fa17d25.1920x1080.jpg) <br>
+<i>Plague Inc.</i> 
+
+Vous devais naviguer sur le web, 
 
 
 ## REF:
@@ -22,6 +53,8 @@ Each entry is dated and arranged in reverse chronological order.
 - [Robin Baumgarten](https://www.wobblylabs.com/)
 - [Kikk festival](https://kikk.be/)
 - [Atlas of Anomalous AI](https://curamagazine.com/digital/atlas-of-anomalous-ai/)
+- [JODI](https://net-art.org/jodi)
+- [reverse-engineer-anything](https://github.com/topics/reverse-engineer-anything)
 - 
 
 <br>
