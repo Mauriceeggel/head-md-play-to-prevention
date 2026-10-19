@@ -60,9 +60,8 @@ List of words :
 ![a hand](img/idea-01/A%20Hand%20With%20Many%20Fingers.jpeg) <br>
 [<i>A Hand With Many Fingers</i>](https://colestia.itch.io/a-hand-with-many-fingers)
 
-![](video/network.mov)
-<video src="video/network.mov" controls preload></video><br>
-<i>TouchDesigner patch exploring the concept of a network (audio reactive) / personal archive</i>
+![mona](img/idea-01/network.png) <br>
+<i>Touchdesigner Patch / personal archive</i>
 
 
 ## REF:
