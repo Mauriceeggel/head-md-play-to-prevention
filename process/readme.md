@@ -40,16 +40,29 @@ List of words :
 
 → The game asks you to identify the different "roles" (harasser, victim, bystander, etc.)
 
+→ You must uncover the various connections between the individuals.
+
 → Navigation takes place through a "network". Each node represents a person and/or their data (messages, photos, contacts, social media, etc.).
 
 <hr>
 
 ### Inspirations
 
+![The Roottrees are Dead](img/idea-01/the%20roottrees%20are%20dead.jpeg) <br>
+[<i>The Roottrees are Dead</i>](https://store.steampowered.com/app/2754380/The_Roottrees_are_Dead/)
+
 ![Plague-Inc](img/idea-01/ss_9a5c4d45543113ad9de9d9b928f6fadf1fa17d25.1920x1080.jpg) <br>
 <i>Plague Inc.</i> 
 
+![mona](img/idea-01/mona.jpeg) <br>
+<i>Mona Jakon ARG - Map</i>
 
+![a hand](img/idea-01/A%20Hand%20With%20Many%20Fingers.jpeg) <br>
+[<i>A Hand With Many Fingers</i>](https://colestia.itch.io/a-hand-with-many-fingers)
+
+![](video/network.mov)
+<video src="video/network.mov" controls preload></video><br>
+<i>TouchDesigner patch exploring the concept of a network (audio reactive)</i>
 
 
 ## REF:
