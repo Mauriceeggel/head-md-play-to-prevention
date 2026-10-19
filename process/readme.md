@@ -7,6 +7,26 @@ We draw inspiration from [Pippin Barr's](https://github.com/pippinbarr) creative
 This folder contains various notes, references, sketches, images, ideas, etc. <br>
 Each entry is dated and arranged in reverse chronological order.
 
+<hr>
+
+# 𖨠 26.10.19 - Story Telling 𖨠 <br> (w/ Douglas Edric Stanley) 
+
+<br>
+
+![notes-cover-03](img/notes_cover_04.jpeg)
+
+
+
+## REF:
+
+- [Robin Baumgarten](https://www.wobblylabs.com/)
+- [Kikk festival](https://kikk.be/)
+- [Atlas of Anomalous AI](https://curamagazine.com/digital/atlas-of-anomalous-ai/)
+- 
+
+<br>
+<hr>
+
 # 𖨠 26.10.12 - Story Telling 𖨠 <br> (w/ Sabrina Calvo & Douglas Edric Stanley) 
 
 <br>
