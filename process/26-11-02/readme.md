@@ -1,4 +1,4 @@
-# The Bystander POV
+# The Bystander Journey
 
 A short narrative game exploring the role of the bystander in cyberharassment, at the intersection of dreams and reality.
 
