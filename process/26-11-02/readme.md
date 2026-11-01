@@ -9,12 +9,14 @@ It unfolds as a linear interactive narrative structured around a day-and-night c
 
 In a situation of cyberharassment, what role does a bystander assume? Are they expected to intervene? And if they choose not to, can their position truly be considered neutral?
 
+Having most likely already witnessed situations of harassment, players are invited to reflect on the actions they could take, or choose not to take, when confronted with such situations.
+
 
 ## Lists 
+- The game alternates between situations of harassment within digital spaces and moments of introspection unfolding in dreamlike environments.
 - During the day, the player must decide whether or not to intervene in the situations presented to them.
 - The “Night” or “Dream” phase reflects the psyche of the character the player embodies, shaped by their actions and decisions throughout the day.
-- A bystander is never neutral in a situation of harassment, regardless of whether they choose to intervene or remain passive.
-- The game alternates between situations of harassment within digital spaces and moments of introspection unfolding in dreamlike environments.
+- A bystander is never "neutral" in a situation of harassment, regardless of whether they choose to intervene or remain passive.
 
 ## Moodboard 
 ![Gaussian](/process/img/references.jpg)
