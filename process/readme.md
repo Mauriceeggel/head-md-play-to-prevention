@@ -15,3 +15,4 @@ Each entry is dated and arranged in reverse chronological order.
 - [26.10.12 - Story Telling](26-10-12/readme.md)
 - [26.10.06 - Virtual World - Worldbuilding](26-10-06/readme.md)
 - [26.10.05 - Cyberpunk - Worldbuilding](26-10-05/readme.md)
+- [26.11.02 - Pitch](26-11-02/readme.md)
