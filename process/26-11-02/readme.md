@@ -38,3 +38,22 @@ Having most likely already witnessed situations of harassment, players are invit
 - [Return of the Obra Dinn](https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/)
 - [kidamensia exhibition game](https://store.epicgames.com/p/kid-a-mnesia-exhibition)
 - [Manifold Garden](https://manifold.garden/)
+
+<hr>
+
+## Feedbacks [w/ Basile Perret]
+
+#### Remarks
+
+- Beware of the "bystander" cliché! [this is already a common perspective]
+- What type of harassment are we talking about??? [important to define this as early as possible]
+- For someone experiencing harassment, nighttime is a moment filled with anxiety—introspection is difficult under such conditions.
+
+#### To be defined: 
+- What type of [cyber]harassment are we talking about?
+- How does the "night" phase take shape?
+- Can we consider the entire game to be set within a digital space (even the dream sequences)?
+- Digital spaces are often places where we seek to project a specific self-image—we could explore the concept of a "digital facade/identity" that shatters.
+- Note: I like the idea of ​​treating digital spaces as physical ones. This raises the question: what forms of harassment are specific to digital spaces, and how can they be translated from physical environments?
+- If we opt for a short, linear narrative, could we envision the game as a kind of "narrative walk"? (e.g., [The Stanley Parable](https://store.steampowered.com/app/221910/The_Stanley_Parable/) or [Eclipsium*](https://store.steampowered.com/app/2419670/Eclipsium/))
+- Games aren't just about rules—they’re about interacting with rules!
