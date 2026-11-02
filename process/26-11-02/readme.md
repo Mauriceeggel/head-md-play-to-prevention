@@ -58,8 +58,21 @@ Having most likely already witnessed situations of harassment, players are invit
 - If we opt for a short, linear narrative, could we envision the game as a kind of "narrative walk"? (e.g., [The Stanley Parable](https://store.steampowered.com/app/221910/The_Stanley_Parable/) or [Eclipsium*](https://store.steampowered.com/app/2419670/Eclipsium/))
 - Games aren't just about rules—they’re about interacting with rules!
 
+<hr>
+
 It is important to keep in mind that some form of action is always necessary.
 
 Loneliness is a significant factor when one is a victim.
 
 **One must identify a form of harassment — and understand the dynamics involved.**
+
+<u>**Do not approach these games as educational games.**</u>
+
+Analyze a situation involving harassment to distill it into a simple form of interaction. --> Understand its context (setting/time).
+
+What is the dilemma / the engaging element / the unique aspect?
+
+--> What is a dilemma ? You have 2 options and the 2 of them are bad.
+
+Example: If I take a real-life situation (a personal one, for instance) and change one element, what happens? What kind of alternative reality is created?
+
