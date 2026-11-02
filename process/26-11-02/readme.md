@@ -57,3 +57,9 @@ Having most likely already witnessed situations of harassment, players are invit
 - Note: I like the idea of ​​treating digital spaces as physical ones. This raises the question: what forms of harassment are specific to digital spaces, and how can they be translated from physical environments?
 - If we opt for a short, linear narrative, could we envision the game as a kind of "narrative walk"? (e.g., [The Stanley Parable](https://store.steampowered.com/app/221910/The_Stanley_Parable/) or [Eclipsium*](https://store.steampowered.com/app/2419670/Eclipsium/))
 - Games aren't just about rules—they’re about interacting with rules!
+
+It is important to keep in mind that some form of action is always necessary.
+
+Loneliness is a significant factor when one is a victim.
+
+**One must identify a form of harassment — and understand the dynamics involved.**
