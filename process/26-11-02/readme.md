@@ -75,4 +75,15 @@ What is the dilemma / the engaging element / the unique aspect?
 --> What is a dilemma ? You have 2 options and the 2 of them are bad.
 
 Example: If I take a real-life situation (a personal one, for instance) and change one element, what happens? What kind of alternative reality is created?
+<hr>
 
+# Pitch preparation for 26-11-09 
+
+- **Setup**: A TikTok account posts videos that mock the teachers of a class. Students begin feeding information about their classmates into the account, it spirals out of control and starts producing content that openly mocks everyone in the class.
+
+- **Perspective**: A group of student attempting to seek justice, having been targeted by the account, ends up replicating the very same mechanisms of violence that they themselves were subjected to. The focus shifts from one student (in the group) to another as the story unfolds.
+
+- **The Compelling Aspect**: **How do people interact with the account ?**
+<br>**The account is a personification of the algorithm.**
+
+The group wants to understand how it functions but in doing so, they end up creating forms of harassment without intending to.
