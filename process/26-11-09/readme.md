@@ -42,4 +42,10 @@ Que vont ils / elles apprendre ? Comment cela impacte le quotidien de ces jeunes
 
 - **Comment nos jeu peuvent-ils devenir un espace ou les adolescent.es produisent des connaissances sur les violences en ligne ?**
 
-- 
+- Qui joue, et avec qui ?
+
+- Que documente le jeu ?
+
+- Comment protéger les joueur.euse.s 
+
+- Que deviennent les connaissances produites ?

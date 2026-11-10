@@ -11,6 +11,7 @@ Each entry is dated and arranged in reverse chronological order.
 
 ## Entries
 
+- [26.11.10 - Project Clarification](26-11-10/readme.md)
 - [26.11.09 - Feedback](26-11-09/readme.md)
 - [26.11.02 - Pitch](26-11-02/readme.md)
 - [26.10.19 - Project Definition](26-10-19/readme.md)
