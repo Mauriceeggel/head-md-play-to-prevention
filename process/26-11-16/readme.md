@@ -101,7 +101,7 @@ In the course of my research, I was unable to find any meme accounts that explic
 
 In the case of public accounts, forms of social pressure and potential harassment can emerge alongside the content itself, particularly within the comments. The underlying mechanisms are more or less the same as those observed with “crush” accounts, but with one key difference: individuals are brought into the spotlight through a direct comparison with the content of the meme. In this way, one or several people may become the focus of attention, potentially exposing them to ridicule, unwanted scrutiny, or social pressure. 
 
-![post](/process/26-11-16/img/01.jpeg)
+![post](/process/26-11-16/img/01.jpeg)  
 
 
 
