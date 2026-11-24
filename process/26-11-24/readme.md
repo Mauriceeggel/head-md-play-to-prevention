@@ -204,3 +204,38 @@ Trois journées tirées de *Under Your Skin* : vendredi (la vidéo), samedi (le 
 - La batterie limite les ouvertures de conversation par jour.
 - Les flammes n'affichent plus de chiffres, seulement leur taille. Face à Thomas, trois paliers : il se moque, il négocie (Léa peut faire basculer), il arrête.
 - Les combinaisons ont un sens (« arrête 😂 » n'est pas pris au sérieux). La vidéo affiche un compteur de vues.
+
+<hr>
+
+# Feedback from Douglas
+
+Remove overly defined aesthetics!!!!
+
+The most important thing for now is functionality. Take one element of an idea, test it, and push it as far as possible while keeping everything as simple as possible.
+
+--> Procedural rhetoric <br>
+
+Procedural rhetoric refers to the way a system, game, or interactive medium communicates ideas and conveys meaning through its rules, mechanics, and interactions, rather than through text or imagery alone.
+
+# Prototype 0.4 : inventaire de langage (version réduite)
+
+[prototype-inventaire/index.html](prototype-inventaire/index.html) : à ouvrir dans un navigateur.
+
+On retire tout ce qui est esthétique (couleurs, emoji, avatars, flammes, attention, temps de maintien) pour tester une seule mécanique : **une conversation, une personne (Camille), on garde ses mots pour pouvoir les utiliser.**
+
+- Au début, tu n'as que trois mots : `oui`, `non`, `mdr`.
+- Les mots soulignés dans les messages de Camille peuvent être gardés en cliquant dessus. Tu ne peux répondre qu'avec ce que tu as gardé, 3 mots maximum. `oui` et `non` ne vont pas ensemble.
+- Certains mots n'apparaissent que selon tes réponses. Par exemple, dire la vérité fait écrire « désolé » à Camille tout de suite, mentir le fait arriver seulement lundi.
+- Camille rapporte aussi les mots des autres (« c'est pour rire », « je suis là »). On peut les garder, mais ils n'ont pas le même effet.
+- Un même mot change de sens selon à qui on le dit. Si tu envoies « arrête » à Camille, elle comprend : « c'est moi le problème ? »
+- La fin récapitule ce que tu as dit, les mots gardés mais jamais dits, les mots lus mais pas gardés, et ceux que Camille n'a jamais écrits à cause de tes réponses.
+
+Le scénario tient dans `scenario.js` (des moments, des règles avec les mots requis, les réponses). Le prototype 0.3 reste dans `prototype/`.
+
+## First interface --> too much information / aesthetic too pronounced
+
+![interface01](/process/26-11-24/img/interface01.png)
+
+## Second interface --> much simpler / the focus is solely on functionality
+
+![interface02](/process/26-11-24/img/interface02.png)

@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Inventaire de langage — prototype 0.4</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <section id="intro"></section>
+    <section id="log" aria-live="polite"></section>
+    <p id="status" class="status"></p>
+    <p><button id="next" type="button" hidden></button></p>
+    <section id="end" hidden></section>
+  </main>
+
+  <section id="composer" class="composer">
+    <div class="inner">
+      <p>Ta réponse : <span id="draft"></span> <button id="send" type="button">Envoyer</button></p>
+      <p>Tes mots :</p>
+      <div id="inventory" class="inventory"></div>
+    </div>
+  </section>
+
+  <script src="scenario.js"></script>
+  <script src="game.js"></script>
+</body>
+</html>
