@@ -11,6 +11,9 @@ Each entry is dated and arranged in reverse chronological order.
 
 ## Entries
 
+- [26.11.24 - Game Design](26-11-24/readme.md)
+- [Working Project Definition](26-11-17/working-project-definition.md)
+- [26.11.17 - Project Clarification](26-11-17/readme.md)
 - [26.11.16 - Project Clarification](26-11-16/readme.md)
 - [26.11.10 - Project Clarification](26-11-10/readme.md)
 - [26.11.09 - Feedback](26-11-09/readme.md)
