@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Juste entre nous — prototype 0.3</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <aside class="panel">
+      <h2>Prototype 0.3 · panneau de conception</h2>
+      <p class="legend">Play to prevention · A · M · R · 24/11/26</p>
+      <ol class="mech">
+        <li><b>Rythme.</b> Les jours ne passent pas seuls : quand la journée est jouée, un bouton permet de passer à la suivante. Le premier jour est guidé.</li>
+        <li><b>Attention 👁.</b> Chaque jour, tu peux suivre 3 conversations différentes. Rouvrir une conversation déjà suivie est gratuit. Ce que tu ne lis pas fait baisser la flamme. Les messages de Camille sont éphémères.</li>
+        <li><b>Flammes.</b> Visibles seulement par leur taille. Trois paliers face à Thomas : il se moque, il négocie (Léa peut faire basculer), il arrête.</li>
+        <li><b>Vocabulaire.</b> Au début : oui / non (seulement quand on te pose une question). Tu apprends les mots <b>en les lisant</b> : ils sont surlignés dans les messages. Certains n'arrivent que selon tes choix (dire la vérité à Camille, répondre oui à Sarah…). Une seule réponse à la fois, deux mots maximum.</li>
+        <li><b>Couleurs</b> = d'où vient le mot, pas s'il est bien : <span class="frag mini toi">toi</span> <span class="frag mini groupe">groupe</span> <span class="frag mini appris">appris</span></li>
+        <li><b>Hésitation.</b> Suivre le groupe part tout de suite. Recadrer devant le groupe demande de maintenir 3 s, sous ses yeux.</li>
+        <li><b>Combinaisons.</b> « arrête 😂 » n'est pas pris au sérieux. Un mot de soutien avec un rire blesse.</li>
+        <li><b>Avatars.</b> Dans la liste, pas d'expression : il faut ouvrir pour voir. Ton avatar prend la casquette du groupe si tu suis.</li>
+      </ol>
+      <div id="state"></div>
+      <button class="cta ghost" id="restart2">Recommencer</button>
+    </aside>
+
+    <div class="phone" id="phone">
+      <div id="status" class="status"></div>
+      <button id="notif" class="notif" type="button"></button>
+      <div id="toast" class="toast"></div>
+      <button id="next" class="next" type="button"></button>
+      <div id="coach" class="coach"></div>
+
+      <section class="screen list-screen">
+        <header class="listhead"><h1>Chats</h1><p id="listinfo" class="listinfo"></p></header>
+        <div id="list" class="list"></div>
+      </section>
+
+      <section class="screen conv-screen">
+        <header id="convhead" class="convhead"></header>
+        <div id="msgs" class="msgs"></div>
+        <div id="seen" class="seen"></div>
+        <div class="composer">
+          <div id="draft" class="draft"></div>
+          <div class="row2">
+            <div id="chips" class="chips"></div>
+            <button id="send" class="send" type="button" aria-label="Maintenir pour envoyer"><span>➤</span></button>
+          </div>
+        </div>
+      </section>
+
+      <section id="end" class="screen end"></section>
+      <div id="overlay" class="overlay"></div>
+    </div>
+  </main>
+  <p class="keys">Touche <b>D</b> : panneau de conception (caché pendant les playtests)</p>
+
+  <script src="scenario.js"></script>
+  <script src="avatar.js"></script>
+  <script src="game.js"></script>
+</body>
+</html>

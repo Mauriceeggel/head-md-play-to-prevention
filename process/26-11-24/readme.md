@@ -174,3 +174,33 @@ LÉGITIMITÉ ───────► HÉSITATION (intervenir en public)
 - Les joueur·euses lisent-ils·elles l'état de Camille à travers son avatar, sans texte explicite ?
 - La flamme crée-t-elle une vraie hésitation, ou se contente-t-on de l'optimiser comme un score ?
 - L'hésitation publique (D) est-elle ressentie comme une pression ou comme une simple contrainte d'interface ?
+
+<hr>
+
+# Prototype web 0.3
+
+[→ Ouvrir le prototype](prototype/index.html) (ouvrir `index.html` dans un navigateur, 5 minutes environ ; on passe au jour suivant quand on veut)
+
+Trois journées tirées de *Under Your Skin* : vendredi (la vidéo), samedi (le sticker et le sondage), lundi (la compil). Le prototype teste le système ci-dessus : l'attention, les flammes, le vocabulaire, l'hésitation et les avatars. Il se termine par les Souvenirs, puis les notes de Camille.
+
+- `scenario.js` : tout le contenu modifiable (personnages, flammes de départ, seuil de légitimité, mots, messages et timing de chaque journée).
+- `avatar.js` : les avatars dessinés en SVG et leurs humeurs.
+- `game.js` : les règles.
+- Touche **D** : afficher le panneau de conception (flammes chiffrées, seuils). Il est caché par défaut pour les playtests.
+
+**Changements 0.2 → 0.3**
+- On apprend les mots en les lisant : ils sont surlignés dans les messages (par exemple Camille écrit « dis-leur d'arrêter », et on obtient « arrête »). D'autres n'arrivent que selon les choix (dire la vérité à Camille donne « désolé·e »). 19 mots au total.
+- Le premier jour est guidé, étape par étape.
+- Une seule réponse à la fois (« oui » remplace « non »), deux mots maximum.
+- Les notifications s'affichent dans la barre d'état et ne cachent plus le bouton retour.
+- La batterie devient l'**attention 👁** : 3 conversations différentes à suivre par jour, et rouvrir une conversation déjà suivie est gratuit.
+
+**Changements 0.1 → 0.2**
+- Les jours ne passent plus seuls, et le rythme est deux fois plus lent. Les personnages « écrivent… » avant de répondre.
+- Les conversations apparaissent au fil de l'histoire : Camille et Thomas, puis le groupe, Sarah et le compte @memes_college.
+- Au début, on ne peut répondre que oui ou non, et seulement quand on te pose une question. Les mots du groupe arrivent avec le groupe, les autres te sont appris par quelqu'un (Sarah, Camille).
+- La couleur indique d'où vient un mot (toi, groupe, appris), pas s'il est bien ou mal.
+- L'hésitation dépend de ce qu'on dit et devant qui : 😂 part tout de suite, « arrête » devant le groupe demande 3 s.
+- La batterie limite les ouvertures de conversation par jour.
+- Les flammes n'affichent plus de chiffres, seulement leur taille. Face à Thomas, trois paliers : il se moque, il négocie (Léa peut faire basculer), il arrête.
+- Les combinaisons ont un sens (« arrête 😂 » n'est pas pris au sérieux). La vidéo affiche un compteur de vues.
