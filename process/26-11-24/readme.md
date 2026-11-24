@@ -91,3 +91,86 @@ Idées issues de l'analyse de Snapchat, à explorer pour le prototype.
 - Le joueur découvre s'il a aggravé ou apaisé la situation (→ question ouverte n°5).
 
 
+
+<hr>
+
+# Système de jeu : le témoin et son groupe
+
+Synthèse issue du prototype V1 *Under Your Skin* (testé en narration interactive) et des pistes Snapchat ci-dessus.<br>
+Objectif : passer d'éléments d'**interface** à de vraies **mécaniques de gameplay** (un geste, une règle, une tension, un retour).
+
+**Principe :** le joueur gère une ressource rare, son **attention**, entre plusieurs conversations. Pour intervenir, il lui faut des **flammes** (sa légitimité) et des **mots** (son vocabulaire). Son **avatar** montre à tous ce qu'il fait, y compris quand il hésite.
+
+## Les quatre mécaniques
+
+### A. L'attention → on ne peut pas être partout
+- Plusieurs conversations arrivent en même temps : le groupe, Thomas, Sarah, Camille. On n'en ouvre qu'une à la fois.
+- Les messages privés sont éphémères et expirent s'ils restent sans réponse.
+- Toute conversation négligée fait baisser la flamme correspondante.
+- → Abandonner Camille n'est jamais un choix explicite : ça arrive parce que tout le reste est plus bruyant.
+
+### B. Les flammes → une monnaie de légitimité
+- Chaque relation a une flamme. Participer la nourrit, s'opposer la consomme.
+- Tes mots n'ont de poids que si ta flamme avec la personne est assez haute. Un « arrête » envoyé à quelqu'un avec qui ta flamme est faible est ignoré.
+- → Pour pouvoir confronter Thomas, il faut avoir été proche de lui, donc en partie complice.
+
+### C. Le vocabulaire → on parle comme son groupe
+- Pas de clavier. On compose avec des fragments : mots, stickers, emojis.
+- Au départ, l'inventaire ne contient que le langage du groupe : les blagues, le surnom, le sticker du meme.
+- Les mots pour soutenir ou recadrer se débloquent dans les échanges privés (Sarah, Camille). Or ces échanges coûtent de l'attention (A).
+- → Pour dire autre chose, il faut d'abord sortir de son groupe.
+
+### D. L'hésitation → « en train d'écrire… »
+- Composer un message demande de maintenir le doigt appuyé. Pendant ce temps, tout le monde voit que tu écris.
+- Le groupe réagit à ton hésitation. Si tu lâches, rien n'est envoyé, mais l'hésitation a été vue.
+- La fenêtre se referme : quand le moment est passé, l'intervention ne sert plus à rien.
+- → Le joueur vit l'hésitation au lieu de seulement la choisir.
+
+## L'avatar, trois fonctions de jeu
+
+### 1. Lire → la seule façon de percevoir les autres
+- Personne ne dit « je vais mal ». L'état émotionnel ne passe que par l'avatar : posture, expression, absence.
+- Pour le voir, il faut ouvrir le profil ou la conversation, ce qui **coûte de l'attention** (A).
+- L'avatar de Camille change au fil de l'histoire : souriant, puis capuche, puis il disparaît de la rangée des membres du groupe.
+- → Ne pas regarder, c'est déjà rater quelque chose.
+
+### 2. Être vu → ton avatar te trahit
+- Ton avatar apparaît dans la rangée des présents en bas du chat. Tout le monde sait que tu as lu (« Vu »).
+- Pendant que tu composes (D), il prend une pose « en train d'écrire » visible par tous. L'hésitation devient publique.
+- Selon ce que tu fais, il **adopte les codes du groupe** (le sticker du meme, une tenue commune) ou s'en éloigne.
+- → L'identité sociale du joueur se voit : appartenir au groupe se lit sur son corps virtuel.
+
+### 3. S'exprimer → les poses font partie du vocabulaire
+- Les réactions passent aussi par les poses de l'avatar : rire, haussement d'épaules, détourner le regard, bras croisés.
+- Elles se débloquent comme les mots (C). Au départ, tu ne sais que rire avec le groupe.
+- → Le corps et le langage forment un seul inventaire, façonné par le groupe.
+
+## Comment tout s'imbrique
+
+```
+ATTENTION ──── coûte ───► lire les avatars, parler en privé
+   │                              │
+   │                              ▼
+   │                     débloque MOTS + POSES
+   ▼                              │
+FLAMMES ◄── participer nourrit    │
+   │        s'opposer consomme    │
+   ▼                              ▼
+LÉGITIMITÉ ───────► HÉSITATION (intervenir en public)
+                         │
+                         ▼
+               AVATAR visible par tous
+```
+
+## Exemple : l'acte 4, la compilation de Thomas
+1. Thomas envoie la compilation dans le groupe. Les avatars rient, 🔥 212 avec lui.
+2. En même temps, un message éphémère de Camille clignote (A). L'ouvrir révèle son avatar, capuche baissée (1). Ne pas l'ouvrir le laisse expirer.
+3. Tu veux répondre à Thomas. Ton inventaire contient 😂, 💀, le sticker du meme… et « arrête », seulement si tu as parlé à Sarah avant (C).
+4. Tu appuies pour composer. Ton avatar s'affiche « en train d'écrire » et le groupe le remarque : « 👀 ? » (D, 2).
+5. Tu envoies « arrête » : ta flamme avec Thomas passe de 212 à 140 et son avatar se détourne. Ou tu lâches : rien n'est envoyé, mais tout le monde a vu ton hésitation.
+6. Plus tard, les **Souvenirs** de fin retracent tout ça, puis on voit les mêmes moments depuis le téléphone de Camille.
+
+## Ce qu'il faut tester en premier
+- Les joueur·euses lisent-ils·elles l'état de Camille à travers son avatar, sans texte explicite ?
+- La flamme crée-t-elle une vraie hésitation, ou se contente-t-on de l'optimiser comme un score ?
+- L'hésitation publique (D) est-elle ressentie comme une pression ou comme une simple contrainte d'interface ?
